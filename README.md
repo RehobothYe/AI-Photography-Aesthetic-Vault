@@ -17,6 +17,18 @@ Instead of only describing what appears in an image, this framework explores the
 
 It transforms visual references into structured aesthetic insights and AI generation prompts.
 
+## Workflow
+
+The framework follows a visual translation process:
+
+Creative idea  
+→ Historical and contextual analysis  
+→ Photography DNA extraction  
+→ Camera, lighting and composition decisions  
+→ Cinematic image prompt generation
+
+The goal is to transform imagination into controllable visual language.
+
 ## Philosophy
 
 Great images are not created only by adding objects and details.

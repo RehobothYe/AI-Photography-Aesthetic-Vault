@@ -116,6 +116,15 @@ AI Generation Prompt
 The goal is not to copy an image.
 
 The goal is to understand the visual system behind the image and help creators produce more intentional visual work.
+## Examples
+
+The following examples demonstrate how the framework transforms historical and creative concepts into structured photographic decisions.
+
+- [Shah Jahan and Mumtaz Mahal Before the Taj Mahal](examples/mughal-love-scene.md)
+
+- [18th-Century Cotton Field Labor Scene](examples/historical-cotton-field.md)
+
+- [Tang Dynasty Street Scene in Chang'an](examples/tang-dynasty-street-scene.md)
 
 ## License
 

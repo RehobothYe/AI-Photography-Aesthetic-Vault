@@ -1,7 +1,6 @@
 # AI Photography Aesthetic Vault
 
-An AI-powered framework for understanding photography aesthetics, visual style, and cinematic language.
-
+An AI framework for translating ideas into photographic decisions, visual DNA, and cinematic image prompts.
 ## Overview
 
 AI Photography Aesthetic Vault helps creators understand the visual DNA behind photography.

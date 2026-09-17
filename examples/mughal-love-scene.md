@@ -44,7 +44,8 @@ Ivory marble, deep green garden tones, silver-blue moonlight.
 
 ## Final Prompt
 
-(Paste the final image generation prompt here)## Visual Principle
+(Paste the final image generation prompt here)
+## Visual Principle
 
 The scene focuses on emotional truth rather than historical spectacle. 
 The goal is to portray the private humanity behind royal identity.
